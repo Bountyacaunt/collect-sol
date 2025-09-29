@@ -18,7 +18,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/collect-sol.git
+git clone https://github.com/Bountyacaunt/collect-sol.git
 cd collect-sol
 ```
 
